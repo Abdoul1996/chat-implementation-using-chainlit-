@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 
 setup(
-    name="Abdoul chatbot",
+    name="Somali Chatbot Food",
     version="0.0.0",
     author="Abdoulfatah Abdillahi",
     author_email="aabdillahid@gmail.com",
